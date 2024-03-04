@@ -1,0 +1,13 @@
+{
+    "query": [
+        {
+            "number": 145,
+            "name": "domates",
+            "ip": "185.72.9.42",
+            "port": 7777,
+            "online": 40,
+            "maxplayers": 160,
+            "password": false
+        }
+    ]
+}
